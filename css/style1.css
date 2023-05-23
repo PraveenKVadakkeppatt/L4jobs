@@ -1098,7 +1098,7 @@ label span {
 
 .form-group p.label sup,
 label sup {
-    color: #cc
+    color: #cc0000;
 }
 
 select[multiple] {
@@ -17754,4 +17754,6 @@ span.slick-next {
         margin-top: 15px
     }
 }
+
+/* login page */
 
